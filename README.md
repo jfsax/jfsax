@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=jfsax&color=orange&style=flat-square)
+![](https://komarev.com/ghpvc/?username=jfsax&color=orange&style=flat)
 <!-- test -->
 ### Hi there 👋
 
