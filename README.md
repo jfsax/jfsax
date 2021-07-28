@@ -1,5 +1,5 @@
 <!-- ![](https://komarev.com/ghpvc/?username=jfsax&color=pink&style=flat) -->
-![header](https://capsule-render.vercel.app/api?color=timeGradient)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient)
 ![](https://i.imgur.com/vnZPS5w.gif)
 # Hello there 👋
 
