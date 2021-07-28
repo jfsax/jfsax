@@ -7,8 +7,6 @@
 
 <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5"> <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3"> <img src="https://img.shields.io/badge/-JavaScript-FFC300?style=flat-square"> <img src="https://img.shields.io/badge/-nodeJS-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/-ExpressJS-fffcd4?style=flat-square">
 
-## Main Tools
-
 # GitHub Stats
 <a href="https://github.com/jfsax">
   <img align="center" height="200" width="49%" src="https://github-readme-stats.vercel.app/api?username=jfsax&count_private=true&show_icons=true&theme=dracula&include_all_commits" />
