@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/jfsax">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfsax&layout=compact&theme=dracula" />
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfsax&layout=compact&theme=dracula" />
 </a>
 
 <!--
