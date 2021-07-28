@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=jfsax&color=orange&style=flat)\n
+![](https://komarev.com/ghpvc/?username=jfsax&color=orange&style=flat)\
 ![](https://i.imgur.com/CIKFYX4.png)
 ### Hello there 👋
 
