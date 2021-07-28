@@ -5,7 +5,7 @@
 
 ## I’m currently learning...
 
-<img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5"> <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3"> <img src="https://img.shields.io/badge/-JavaScript-FFC300?style=flat-square&logo=javascript"> <img src="https://img.shields.io/badge/-nodeJS-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/-ExpressJS-fffcd4?style=flat-square">
+<img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5"> <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3"> <img src="https://img.shields.io/badge/-JavaScript-FFC300?style=flat-square"> <img src="https://img.shields.io/badge/-nodeJS-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/-ExpressJS-fffcd4?style=flat-square">
 
 ## Main Tools
 
