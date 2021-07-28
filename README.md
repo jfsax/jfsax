@@ -10,7 +10,8 @@
 <a href="https://github.com/jfsax">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfsax&layout=compact&theme=dracula" />
 </a>
-<br>
+\
+\
 ![footer](https://capsule-render.vercel.app/api?type=slice&section=footer&color=gradient)
 
 <!--
