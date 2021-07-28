@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=jfsax&color=orange&style=flat)
-![](https://imgur.com/CIKFYX4)
+[Imgur](https://imgur.com/CIKFYX4)
 ### Hello there 👋
 
 ![JFSAX's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfsax&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfsax&layout=compact&theme=dracula)](https://github.com/jfsax/github-readme-stats)
