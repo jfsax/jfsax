@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=jfsax&color=orange&style=flat)
-
+<!-- ![](https://komarev.com/ghpvc/?username=jfsax&color=pink&style=flat) -->
 ### Hello there 👋
 
 ![](https://i.imgur.com/CIKFYX4.png)\
