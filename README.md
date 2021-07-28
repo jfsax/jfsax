@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=jfsax&color=orange&style=flat)
+![](https://komarev.com/ghpvc/?username=jfsax&color=blue&style=flat)
 <!-- test -->
-### Hi there 👋
+### Hello there 👋
 
 ![JFSAX's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfsax&count_private=true)
 
