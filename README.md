@@ -3,7 +3,7 @@
 ![](https://i.imgur.com/vnZPS5w.gif)
 # Hello there :sparkles:
 
-## I’m currently learning ...
+## I’m currently learning...
 
 <img src="https://img.shields.io/badge/-HTML5-orange"> <img src="https://img.shields.io/badge/-CSS3-blue"> <img src="https://img.shields.io/badge/-JavaScript-FFC300"> <img src="https://img.shields.io/badge/-ExpressJS-fffcd4">
 
