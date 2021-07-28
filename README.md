@@ -5,7 +5,7 @@
 
 # GitHub Stats
 <a href="https://github.com/jfsax">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=jfsax&show_icons=true&theme=dracula" />
+  <img align="center" height="200" width="49%" src="https://github-readme-stats.vercel.app/api?username=jfsax&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/jfsax">
   <img align="center" height="200px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfsax&layout=compact&theme=dracula" />
