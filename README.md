@@ -1,7 +1,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=jfsax&color=pink&style=flat) -->
+![](https://i.imgur.com/CIKFYX4.png)\
 ### Hello there 👋
 
-![](https://i.imgur.com/CIKFYX4.png)\
 ![JFSAX's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfsax&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfsax&layout=compact&theme=dracula)](https://github.com/jfsax/github-readme-stats)
 
 <!--
