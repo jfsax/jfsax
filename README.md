@@ -1,5 +1,5 @@
 <!-- ![](https://komarev.com/ghpvc/?username=jfsax&color=pink&style=flat) -->
-![](https://imgur.com/D22o9oc)
+![](https://i.imgur.com/D22o9oc.png)
 # Hello there 👋
 
 # Stats
