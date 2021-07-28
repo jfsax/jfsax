@@ -3,6 +3,13 @@
 ![](https://i.imgur.com/vnZPS5w.gif)
 # Hello there :sparkles:
 
+## I’m currently learning ...
+
+<img src="https://img.shields.io/badge/-HTML5-orange">
+<img src="https://img.shields.io/badge/-CSS3-blue">
+<img src="https://img.shields.io/badge/-JavaScript-FFC300">
+<img src="https://img.shields.io/badge/-ExpressJS-fffcd4">
+
 # GitHub Stats
 <a href="https://github.com/jfsax">
   <img align="center" height="200" width="49%" src="https://github-readme-stats.vercel.app/api?username=jfsax&count_private=true&show_icons=true&theme=dracula&include_all_commits" />
@@ -10,11 +17,6 @@
 <a href="https://github.com/jfsax">
   <img align="center" height="200" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfsax&layout=compact&theme=dracula" />
 </a>
-
-<!--
-
-![JFSAX's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfsax&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfsax&layout=compact&theme=dracula)](https://github.com/jfsax/github-readme-stats)
--->
 
 <!--
 **jfsax/jfsax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
