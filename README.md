@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfsax&layout=compact&theme=dracula" />
 </a>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=timeGradient)
+![footer](https://capsule-render.vercel.app/api?type=slice&section=footer&color=timeGradient)
 <!--
 ![JFSAX's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfsax&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfsax&layout=compact&theme=dracula)](https://github.com/jfsax/github-readme-stats)
 -->
