@@ -5,7 +5,9 @@
 
 ## I’m currently learning...
 
-<img src="https://img.shields.io/badge/-HTML5-orange"> <img src="https://img.shields.io/badge/-CSS3-blue"> <img src="https://img.shields.io/badge/-JavaScript-FFC300"> <img src="https://img.shields.io/badge/-ExpressJS-fffcd4">
+<img src="https://img.shields.io/badge/-HTML5-orange"> <img src="https://img.shields.io/badge/-CSS3-blue"> <img src="https://img.shields.io/badge/-JavaScript-FFC300"> <img src="https://img.shields.io/badge/-nodeJS-brightgreen"> <img src="https://img.shields.io/badge/-ExpressJS-fffcd4">
+
+## Main Tools
 
 # GitHub Stats
 <a href="https://github.com/jfsax">
