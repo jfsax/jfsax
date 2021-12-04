@@ -3,9 +3,18 @@
 ![](https://i.imgur.com/vnZPS5w.gif)
 # Hello there :sparkles:
 
-## I’m currently learning...
+<h3>📖 About me:</h3>
+- 
 
-<img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5"> <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3"> <img src="https://img.shields.io/badge/-JavaScript-FFC300?style=flat-square"> <img src="https://img.shields.io/badge/-nodeJS-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/-ExpressJS-fffcd4?style=flat-square">
+<h3 align="center">🛠️ Skills:</h3>
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="PostegreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 # GitHub Stats
 <a href="https://github.com/jfsax">
@@ -26,6 +35,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
