@@ -1,7 +1,6 @@
 <!-- ![](https://komarev.com/ghpvc/?username=jfsax&color=pink&style=flat) -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=timeGradient&desc=Hello%World!) -->
 ![](https://i.imgur.com/vnZPS5w.gif)
-# Hello there :sparkles:
 
 <h3>📖 About me:</h3>
 - 🤷‍♀️ I'm bad at talking about myself. <br/>
