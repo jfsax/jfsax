@@ -3,10 +3,8 @@
 ![](https://i.imgur.com/vnZPS5w.gif)
 
 <h3>📖 About me:</h3>
-- 🤷‍♀️ I'm bad at talking about myself. <br/>
-- 🇧🇷 I'm a Brazilian dev. <br/>
+- 🇧🇷 I'm a JavaScript developer and I'm currently learning TypeScript. <br/>
 - ✍️ I'm also an illustrator... sometimes! <br/>
-- 🤹‍♀️ I plan on learning to play the bass, mandarin or french and TypeScript. <br/>
 - 📺 Fighting games enthusiast and comedy shows connoisseur.
 
 <h3>⚡ Skills:</h3>
