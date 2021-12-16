@@ -1,9 +1,11 @@
 <!-- ![](https://komarev.com/ghpvc/?username=jfsax&color=pink&style=flat) -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=timeGradient&desc=Hello%World!) -->
 <h3>📖 About me:</h3>
-• 🇧🇷 I'm a JavaScript developer and I'm currently learning TypeScript. <br/>
-• ✍️ I'm also an illustrator... sometimes! <br/>
-• 📺 Fighting games enthusiast and comedy shows connoisseur.
+<ul>
+  <li>🇧🇷 I'm a JavaScript developer and I'm currently learning TypeScript. <br/></li>
+  <li>✍️ I'm also an illustrator... sometimes! <br/></li>
+  <li>📺 Fighting games enthusiast and comedy shows connoisseur.</li>
+</ul>
 
 <h3>⚡ Skills:</h3>
 <p>
