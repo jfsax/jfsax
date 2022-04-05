@@ -4,7 +4,6 @@
 <ul>
   <li>👩‍💻 I'm a JavaScript developer and I'm currently learning Java. <br/></li>
   <li>✍️ I'm also an illustrator... sometimes! <br/></li>
-  <li>📺 Fighting games enthusiast and comedy shows connoisseur.</li>
 </ul>
 
 <h3>⚡ Skills:</h3>
